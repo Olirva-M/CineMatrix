@@ -13,5 +13,6 @@ CineMatrix is a project developed in the C programming language to create and ma
 ## Installation and Setup
 1. Ensure that you have a C compiler. If not, download MinGW - Minimalist GNU for Windows from the official website. 
 2. The commands to compile and execute the program are:
+
         >>> gcc Movie_Scheduling_management.c -o movie_schedule
         >>> ./movie_schedule
